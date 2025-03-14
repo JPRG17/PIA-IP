@@ -7,7 +7,8 @@ PRODUCTO INTEGRADOR IP
 -  main.py  → Script de control principal que ejecuta las diferentes funciones del proyecto.  
 -  requirements.txt  → Archivo con las dependencias necesarias para ejecutar los scripts.  
 
-    🔹   Funciones Disponibles    
+    🔹   Funciones Disponibles
+    
 | Opción | Descripción |
 
 |--------|------------|
