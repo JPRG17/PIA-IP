@@ -9,7 +9,9 @@ PRODUCTO INTEGRADOR IP
 
     🔹   Funciones Disponibles    
 | Opción | Descripción |
+
 |--------|------------|
+
 |   A - Web Scraping   | Extrae información de una página web dada. |
 
 |   B - API Hunter   | Realiza consultas a APIs públicas usando una clave de API. |
