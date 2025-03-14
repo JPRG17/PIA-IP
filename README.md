@@ -11,11 +11,17 @@ PRODUCTO INTEGRADOR IP
 | Opción | Descripción |
 |--------|------------|
 |   A - Web Scraping   | Extrae información de una página web dada. |
+
 |   B - API Hunter   | Realiza consultas a APIs públicas usando una clave de API. |
+
 |   C - Envío de Imagen   | Automatiza el envío de imágenes según los parámetros ingresados. |
+
 |   D - Hash Obtainer   | Obtiene hashes de archivos dentro de una ruta especificada. |
+
 |   E - PowerShell Scripts   | Ejecuta comandos en PowerShell mediante un menú interactivo. |
+
 |   F - Servidor-Cliente   | Inicia una conexión entre un servidor y un cliente mediante sockets. |
+
 |   G - WhatsApp Automation   | Automatiza el envío de mensajes a través de WhatsApp Web. |
 
 ------------------------------------------------------------------------------------------------------
